@@ -1,0 +1,66 @@
+﻿#cuerpo
+{
+	margin-top:30px;
+    margin-right:50px;
+	width:750px;
+	height:750px;
+	display:block;
+	border-radius:10px;
+	padding:1px;
+	border:5px solid gray;
+	background:#1111;
+}
+#titulo
+{margin-bottom:0px;
+margin-left:10px;
+}
+#datos
+{margin-bottom:0px;
+margin-left:10px;
+line-height:0px;
+}
+#formación
+{margin-bottom:0px;
+margin-left:10px;
+line-height:0px;
+}
+#Experiencia
+{margin-bottom:0px;
+margin-left:10px;
+line-height:0px;
+}
+#Idiomas
+{margin-bottom:0px;
+margin-left:10px;
+line-height:0px;
+}
+#Cursos
+{margin-bottom:0px;
+margin-left:10px;
+line-height:0px;
+}
+#Adicional
+{margin-bottom:0px;
+margin-left:10px;
+line-height:0px;
+}
+
+#foto
+{position:absolute; 
+	top:80px;
+bottom:0px;
+right:0px;
+left:620px;
+}
+
+img{margin-top:10px;
+margin-right:50px;
+	width:120px;
+	height:auto;
+	margin-top:0px;
+	display:block;
+	border-radius:10px;
+	padding:5px;
+	border:1px solid #ccc;
+	
+}
